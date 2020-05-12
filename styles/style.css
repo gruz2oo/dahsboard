@@ -1,0 +1,95 @@
+body {background-color: rgb(148, 172, 167);
+   width: 100%;
+}
+
+.record {
+   position: relative;
+   padding: 10px;
+   padding-left: 0px;
+   padding-right: 0px;
+   background-color: rgb(103, 156, 163);
+}
+
+h1 {
+   font-size: 45px;
+   color: rgb(247, 244, 244);
+   background-color: rgb(45, 42, 68);
+   text-align: center;
+}
+
+p {
+   color: white;
+   font-size: 20px;
+   border-style: double;
+   text-align: center;
+}
+
+.number {
+   
+   width: 100%;
+}
+
+.number11 {
+   margin-top: 5px;
+   background-color: rgb(110, 177, 179);
+   float: left;
+   width: 24%;
+   height: 100px;
+
+}
+
+.number12 {
+   margin-top: 5px;
+   background-color: rgb(110, 177, 179);
+   float: left;
+   width: 24%;
+   height: 100px;
+}
+
+.number13 {
+   margin-top: 5px;
+   background-color: rgb(110, 177, 179);
+   float: right;
+   width: 24%;
+   height: 100px;
+}
+
+.number14 {
+   margin-top: 5px;
+   background-color: rgb(110, 177, 179);
+   float: right;
+   width: 24%;
+   height: 100px;
+}
+
+.number21 {
+   margin-top: 5px;
+   background-color: rgb(17, 88, 112);
+   float: right;
+   width: 49%;
+   height: 230px;
+}
+
+.number22 {
+   margin-top: 5px;
+   background-color: rgb(17, 88, 112);
+   float: left;
+   width: 49%;
+   height: 230px;
+}
+
+.number31 {
+   margin-top: 5px;
+   background-color: rgb(1, 35, 46);
+   float: left;
+   width: 49%;
+   height: 280px;
+}
+
+.number32 {
+   margin-top: 5px;
+   background-color: rgb(1, 35, 46);
+   float: right;
+   width: 49%;
+   height: 280px;
+}
